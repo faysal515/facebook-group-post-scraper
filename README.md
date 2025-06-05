@@ -35,7 +35,7 @@ Facebook dynamically removes and adds posts in the DOM during scrolling, making 
    - Adjust scroll count and delays as needed.
 4. **Run the Script**
    ```sh
-   node facebook-scraper-clean.js
+   node facebook-scraper.js
    ```
 5. **Process the Output**
    - The script prints each unique post's content and HTML.
